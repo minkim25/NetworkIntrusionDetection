@@ -1,4 +1,4 @@
-# Network Intrusion Detection Using Various Deep Learning Approaches
+<b>Network Intrusion Detection Using Various Deep Learning Approaches</b>
 
-Link to report: https://drive.google.com/file/d/1Wi4c5ZqV1AYkbUkTgKG6sqQewOpXaL6p/view?usp=sharing
+Link to research paper: https://drive.google.com/file/d/1Wi4c5ZqV1AYkbUkTgKG6sqQewOpXaL6p/view?usp=sharing
 
